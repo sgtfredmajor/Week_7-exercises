@@ -1,0 +1,21 @@
+{
+  "name": "js",
+  "version": "0.0.1",
+  "description": "First Express + Node App",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node",
+    "Express",
+    "Web",
+    "Server",
+    "Javascript"
+  ],
+  "author": "Fred Major",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
